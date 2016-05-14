@@ -1,5 +1,5 @@
 h1 {
-  color: #0000ff;
+  color: #FF3652;
   text-align: center;
 }
 
@@ -8,11 +8,52 @@ h2 {
   text-align: center;
 }
 
-p {
+h4 {
+  text-align: center;
+}
+
+body {
   font-family: sans-serif;
+  background-color: #92FFEE
 }
 
 ul {
-  font-size: 20px;
-  line-height: 30px;
+  font-size: 15px;
+  line-height: 20px;
+}
+
+ol {
+  font-size: 17px;
+  line-height: 22px;
+}
+
+a {
+  color: #8E7CFF
+}
+
+.imagesTo {
+  display: inline-block;
+  image-orientation: center;
+}
+
+.images {
+  width: 32%;
+  border: 2px solid #E80C56;
+  padding: 2px solid #E80C56;
+}
+
+.sidebar {
+  width: 65%;
+  float: right;
+  background-color: #FF513F;
+  margin-left: 15px
+}
+
+.columns {
+  width: 33%;
+  float: left;
+}
+
+.columns:hover {
+  background-color: #FF7A69;
 }
