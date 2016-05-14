@@ -1,12 +1,8 @@
 ## README About Ape
 
--_The purpose of this is to develop a landing page to showcase my projects at the Intro to Programming Epicodus track.
+_The purpose of this is to develop a landing page to showcase my projects at the Intro to Programming Epicodus track._
 
- ## Setup/Installation Requirements
-
--The purpose of this is to develop a landing page to showcase my projects at the Intro to Programming Epicodus track.
-
- ## Setup/Installation Requirements
+  ## Setup/Installation Requirements
 - _First you create a directory_
 - _Create folders within the directory to house your styling and images_
 - _Add content to your landing page_
