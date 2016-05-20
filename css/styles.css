@@ -4,8 +4,9 @@ h1 {
 }
 
 h2 {
-  font-style: italic;
   text-align: center;
+  font-style: italic;
+  color: #8E7CFF;
 }
 
 h4 {
@@ -30,13 +31,21 @@ a {
   color: #8E7CFF
 }
 
+.sign-type {
+  text-decoration: underline;
+}
+
+.sign {
+  font-style: oblique;
+}
+
 .imagesTo {
   display: inline-block;
   image-orientation: center;
 }
 
 .images {
-  width: 32%;
+  width: 33%;
   border: 2px solid #E80C56;
   padding: 2px solid #E80C56;
 }
@@ -49,10 +58,21 @@ a {
 }
 
 .columns {
-  width: 33%;
+  width: 30%;
+  margin-left: 10px;
+  margin-bottom: 5px;
   float: left;
 }
 
 .columns:hover {
   background-color: #FF7A69;
+}
+
+/* Media Queries*/
+
+/* Phones to Tablets */
+
+@media screen and (min-width: 481 px) {
+
+
 }
