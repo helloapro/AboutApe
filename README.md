@@ -2,7 +2,7 @@
 
 _The purpose of this is to develop a landing page to showcase my projects at the Intro to Programming Epicodus track._
 
-  ## Author
+  ##Author
 _April Peng_
 
   ## Project Title & Description
