@@ -32,7 +32,7 @@ _AboutApe [First Intro to Programming (Evening) code review]_
 
  ## Link to project
 
-_http://helloapro.github.io/AboutApe_
+_https://helloapro.github.io/AboutApe_
 
   ### License
 
